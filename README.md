@@ -1,0 +1,5 @@
+![deletar](https://github.com/user-attachments/assets/865a494b-0eee-4488-944c-93ad8dd717cd)
+![atualizar](https://github.com/user-attachments/assets/0dfdc2d2-4b54-47f6-8401-5970f62ec5ee)
+![cadastrar](https://github.com/user-attachments/assets/c994ba11-45f8-4e82-b93f-4a817506d24b)
+![home](https://github.com/user-attachments/assets/05fe0298-a2eb-45d2-a298-d2787a5714f8)
+![login](https://github.com/user-attachments/assets/dcd4380f-e205-4285-b2c1-cdf0f077c5cd)
